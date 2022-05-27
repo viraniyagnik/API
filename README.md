@@ -53,7 +53,7 @@ Python Django, Postgresql
 ## Authors
 
   - **YAGNIK** - *Provided README Template* -
-    [viraniyagnik](https://github.com/viraniyagnik)
+    [Readme](https://github.com/viraniyagnik/API/blob/main/README.md)
 
 
 
