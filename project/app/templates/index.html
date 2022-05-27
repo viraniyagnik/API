@@ -1,0 +1,25 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <title>Geolocation</title>
+  </head>
+  <body>
+    <h1>Hello, world!</h1>
+    <div class="container">
+        {% for x in obj %}
+        <div class="row">
+            <div>
+                {{x.Name}}
+            </div>
+            <div>
+                {{x.Latitude}}
+            </div>
+            <div>
+                {{x.Longitude}}
+            </div>
+        </div>
+        {% endfor %}
+    </div>
+    
+  </body>
+</html>
